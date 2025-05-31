@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gn0xVEi57Vo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\NITRO V15\\Desktop\\StudentGrading System\\StudentGradingSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NITRO V15\\.nuget\\packages\\system.speech\\9.0.5\\system.speech.9.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

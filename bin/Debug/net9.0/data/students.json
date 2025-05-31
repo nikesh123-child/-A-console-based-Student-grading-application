@@ -1,0 +1,71 @@
+{
+  "students": [
+    {
+      "studentNumber": "33155414",
+      "studentName": "Nikesh Mahato",
+      "marksHistory": [],
+      "createdAt": "2025-05-30T21:21:02.4866919+05:45",
+      "lastModified": "2025-05-30T21:21:02.4866947+05:45",
+      "marksHistoryCount": 0,
+      "averageMark": 0,
+      "highestAverageMark": 0,
+      "lowestAverageMark": 0,
+      "passCount": 0,
+      "failCount": 0
+    },
+    {
+      "studentNumber": "80034394",
+      "studentName": "chill guy",
+      "marksHistory": [],
+      "createdAt": "2025-05-30T21:21:02.4878936+05:45",
+      "lastModified": "2025-05-30T21:21:02.4878939+05:45",
+      "marksHistoryCount": 0,
+      "averageMark": 0,
+      "highestAverageMark": 0,
+      "lowestAverageMark": 0,
+      "passCount": 0,
+      "failCount": 0
+    },
+    {
+      "studentNumber": "65639993",
+      "studentName": "kismat shrestha",
+      "marksHistory": [],
+      "createdAt": "2025-05-30T21:21:02.4909716+05:45",
+      "lastModified": "2025-05-30T21:21:02.4909718+05:45",
+      "marksHistoryCount": 0,
+      "averageMark": 0,
+      "highestAverageMark": 0,
+      "lowestAverageMark": 0,
+      "passCount": 0,
+      "failCount": 0
+    },
+    {
+      "studentNumber": "61174168",
+      "studentName": "Kismat sherstha",
+      "marksHistory": [
+        {
+          "subjectMarks": {
+            "CS101": 60,
+            "CS102": 70,
+            "CS103": 90,
+            "CS104": 76,
+            "CS105": 78,
+            "CS106": 67
+          },
+          "timestamp": "2025-05-30T21:22:02.9749781+05:45",
+          "averageMark": 73.5,
+          "passStatus": "PASS"
+        }
+      ],
+      "createdAt": "2025-05-30T21:21:26.8142879+05:45",
+      "lastModified": "2025-05-30T21:22:02.9749839+05:45",
+      "marksHistoryCount": 1,
+      "averageMark": 73.5,
+      "highestAverageMark": 73.5,
+      "lowestAverageMark": 73.5,
+      "passCount": 1,
+      "failCount": 0
+    }
+  ],
+  "lastUpdated": "2025-05-30T21:22:02.9750253+05:45"
+}
