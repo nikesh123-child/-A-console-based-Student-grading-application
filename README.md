@@ -1,6 +1,6 @@
 Student Grading System
 
-A comprehensive console-based application for managing student records and grades in a Computer Science program, developed as part of CET137 Assessment 1.
+A comprehensive console-based application for managing student records and grades in a Computer Science program.
 
 Table of Contents
 1. Project Overview
@@ -177,7 +177,3 @@ Section 3: Testing and Documentation
 Contributing
 
 This project is part of an academic assessment and is not open for contributions.
-
-License
-
-This project is created for educational purposes as part of CET137 Assessment 1. 
